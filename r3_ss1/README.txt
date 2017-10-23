@@ -1,3 +1,7 @@
+https://github.com/shadowsocks/shadowsocks-manager
+https://github.com/cokebar/gfwlist2dnsmasq
+https://github.com/cokebar/gfwlist2dnsmasq_python
+
 https://gist.github.com/luojixinhao/a77ad95329e0bf2c4ccdbc3bf952e64b
 https://gist.github.com/rambolee/468ee988d2cf80224a6ac4675c141b4f
 
